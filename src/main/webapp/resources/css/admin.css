@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+#top{
+	min-height:120px;
+	background: url('../images/logo.png') no-repeat rgba(3, 114, 3, 0.7);
+	margin: 0 0 10px 0;	
+}
+
+#body {
+	
+	
+}
+
+#footer {
+	min-height: 35px;
+}
+
+#copyright{
+	float: left;
+	margin:10px;
+}
+#footer-right {
+	float: right;
+	margin: 10px ;	
+}
+
+.clear {
+	clear:both;	
+}
